@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sultan Almalki!  
 🚀 Software Engineer | Cloud | AI | Cybersecurity  
 
-I'm a Software Engineering graduate from **King Saud University (GPA: 4.59/5.0, Second Class Honors)** and a proud **Mawhiba Alumni (9 years)**.  
+I'm a Software Engineering graduate from **King Saud University (GPA: 4.59/5.0, Second Class Honors)** and a Mawhiba Alumni with 9 years in the National Gifted Program.**.  
 I’m passionate about **cloud computing, AI applications, and cybersecurity**, with experience in designing **scalable, secure, and efficient systems**.  
 
 ---
